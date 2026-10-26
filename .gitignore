@@ -1,0 +1,17 @@
+node_modules/
+frontend/dist/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+!.env.example
+.local/
+data/
+models/
+runtimes/
+*.log
+frontend/test-results/
+frontend/playwright-report/
+*.tsbuildinfo
